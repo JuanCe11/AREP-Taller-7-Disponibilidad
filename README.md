@@ -10,7 +10,7 @@ Disponibilidad y Desempeño
 
 ## Comenzando 
 
-Revise el archivo [Descripcion](https://github.com/JuanCe11/AREP-Taller-7-Disponibilidad/blob/master/AREP-Taller-7-Disponibilidad.pdf) para tener informacion basica del problema y la solucion propuesta.
+Revise el archivo [Descripcion](https://github.com/JuanCe11/AREP-Taller-7-Disponibilidad/blob/master/Taller_7_AREP.pdf) para tener informacion basica del problema y la solucion propuesta.
 
 Para tener una copia del repositorio, desde consola ejecute el siguiente comando.
 
