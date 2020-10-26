@@ -2,7 +2,7 @@
 
 Taller 7 - AREP 
 
-Disponibilidad y Desempe�o
+Disponibilidad y Desempeño
 
  
 [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/JuanCe11/AREP-Taller-7-Disponibilidad)
@@ -10,7 +10,7 @@ Disponibilidad y Desempe�o
 
 ## Comenzando 
 
-Revise el archivo [Descripcion](https://github.com/JuanCe11/AREP-Taller-7/blob/master/Taller_7_AREP.pdf) para tener informacion basica del problema y la solucion propuesta.
+Revise el archivo [Descripcion](https://github.com/JuanCe11/AREP-Taller-7-Disponibilidad/blob/master/AREP-Taller-7-Disponibilidad.pdf) para tener informacion basica del problema y la solucion propuesta.
 
 Para tener una copia del repositorio, desde consola ejecute el siguiente comando.
 
@@ -27,7 +27,7 @@ git clone https://github.com/JuanCe11/AREP-Taller-7-Disponibilidad.git
 
 ### Instalacion 
 
-Para la correcta instalación se debe primero clonar el repositorio como se indicó anteriormente, después se ingresa al directorio del proyecto y para ejecutar la clase App (el servicio web de la clase fachada) se ejecutan los siguientes comandos en windows.
+Para la correcta instalaciÃ³n se debe primero clonar el repositorio como se indicÃ³ anteriormente, despuÃ©s se ingresa al directorio del proyecto y para ejecutar la clase App (el servicio web de la clase fachada) se ejecutan los siguientes comandos en windows.
 
 ```
 cd AREP-Taller-7
@@ -53,7 +53,7 @@ mvn javadoc:javadoc
 
 * [Java 8](https://www.java.com/es/about/whatis_java.jsp)
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [Spark Java](http://sparkjava.com/) - Framework de aplicaciï¿½n web.
+* [Spark Java](http://sparkjava.com/) - Framework de aplicaciÃ¯Â¿Â½n web.
 
 
 ## Wiki
@@ -68,5 +68,5 @@ Puedes encontrar mas de como utilizar este proyecto en nuestra [Wiki](https://gi
 
 ## Licencia
 
-Este proyecto está bajo la Licencia GNU General Public License - mira el archivo [LICENSE.txt](LICENSE.txt) para detalles
+Este proyecto estÃ¡ bajo la Licencia GNU General Public License - mira el archivo [LICENSE.txt](LICENSE.txt) para detalles
 
