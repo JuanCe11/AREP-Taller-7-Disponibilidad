@@ -7,6 +7,9 @@ Disponibilidad y Desempeño
  
 [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/JuanCe11/AREP-Taller-7-Disponibilidad)
  
+## Turtorial
+
+Revise el archivo [Tutorial](https://github.com/JuanCe11/AREP-Taller-7-Disponibilidad/blob/master/Tutorial.pdf) para revisar todo el laboratorio propuesto con los pasos desarrollados para la implementación del AWS Auto Scaling Group.
 
 ## Comenzando 
 
